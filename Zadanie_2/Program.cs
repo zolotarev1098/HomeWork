@@ -13,11 +13,11 @@ else
 }
 if (d>c)
 {
-    Console.Write("Max = ");
-    Console.WriteLine(d);
+    Console.WriteLine($"Max = {d}");
+    //Console.WriteLine(d);
 }
 else
 {
-    Console.Write("Max = ");
-    Console.WriteLine(c);
+    Console.WriteLine($"Max = {c}");
+    //Console.WriteLine(c);
 }
