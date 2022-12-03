@@ -18,7 +18,6 @@ while (n2 >= 4)
     n4 = n4 * 10; 
     n2--;
     }
-int n5 = n7 / n4;
-int n6 = n5 % 10; 
-Console.WriteLine(n6);
+int n5 = (n7 / n4) % 10;
+Console.WriteLine(n5);
 }
