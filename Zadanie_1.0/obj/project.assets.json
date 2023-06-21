@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\zolot\\.nuget\\packages\\": {}
+    "C:\\Users\\Денис\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zolot\\OneDrive\\Рабочий стол\\ДЗ\\Zadanie_1.0\\Zadanie_1.0.csproj",
+      "projectUniqueName": "C:\\Users\\Денис\\Visial\\ДЗ\\Zadanie_1.0\\Zadanie_1.0.csproj",
       "projectName": "Zadanie_1.0",
-      "projectPath": "C:\\Users\\zolot\\OneDrive\\Рабочий стол\\ДЗ\\Zadanie_1.0\\Zadanie_1.0.csproj",
-      "packagesPath": "C:\\Users\\zolot\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zolot\\OneDrive\\Рабочий стол\\ДЗ\\Zadanie_1.0\\obj\\",
+      "projectPath": "C:\\Users\\Денис\\Visial\\ДЗ\\Zadanie_1.0\\Zadanie_1.0.csproj",
+      "packagesPath": "C:\\Users\\Денис\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Денис\\Visial\\ДЗ\\Zadanie_1.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\zolot\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Денис\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

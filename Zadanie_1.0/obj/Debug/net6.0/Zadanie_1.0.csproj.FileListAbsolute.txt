@@ -13,3 +13,18 @@ C:\Users\zolot\OneDrive\Рабочий стол\ДЗ\Zadanie_1.0\obj\Debug\net6.
 C:\Users\zolot\OneDrive\Рабочий стол\ДЗ\Zadanie_1.0\obj\Debug\net6.0\Zadanie_1.0.pdb
 C:\Users\zolot\OneDrive\Рабочий стол\ДЗ\Zadanie_1.0\obj\Debug\net6.0\Zadanie_1.0.genruntimeconfig.cache
 C:\Users\zolot\OneDrive\Рабочий стол\ДЗ\Zadanie_1.0\obj\Debug\net6.0\ref\Zadanie_1.0.dll
+C:\Users\Денис\Visial\ДЗ\Zadanie_1.0\bin\Debug\net6.0\Zadanie_1.0.exe
+C:\Users\Денис\Visial\ДЗ\Zadanie_1.0\bin\Debug\net6.0\Zadanie_1.0.deps.json
+C:\Users\Денис\Visial\ДЗ\Zadanie_1.0\bin\Debug\net6.0\Zadanie_1.0.runtimeconfig.json
+C:\Users\Денис\Visial\ДЗ\Zadanie_1.0\bin\Debug\net6.0\Zadanie_1.0.dll
+C:\Users\Денис\Visial\ДЗ\Zadanie_1.0\bin\Debug\net6.0\Zadanie_1.0.pdb
+C:\Users\Денис\Visial\ДЗ\Zadanie_1.0\obj\Debug\net6.0\Zadanie_1.0.csproj.AssemblyReference.cache
+C:\Users\Денис\Visial\ДЗ\Zadanie_1.0\obj\Debug\net6.0\Zadanie_1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Visial\ДЗ\Zadanie_1.0\obj\Debug\net6.0\Zadanie_1.0.AssemblyInfoInputs.cache
+C:\Users\Денис\Visial\ДЗ\Zadanie_1.0\obj\Debug\net6.0\Zadanie_1.0.AssemblyInfo.cs
+C:\Users\Денис\Visial\ДЗ\Zadanie_1.0\obj\Debug\net6.0\Zadanie_1.0.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Visial\ДЗ\Zadanie_1.0\obj\Debug\net6.0\Zadanie_1.0.dll
+C:\Users\Денис\Visial\ДЗ\Zadanie_1.0\obj\Debug\net6.0\refint\Zadanie_1.0.dll
+C:\Users\Денис\Visial\ДЗ\Zadanie_1.0\obj\Debug\net6.0\Zadanie_1.0.pdb
+C:\Users\Денис\Visial\ДЗ\Zadanie_1.0\obj\Debug\net6.0\Zadanie_1.0.genruntimeconfig.cache
+C:\Users\Денис\Visial\ДЗ\Zadanie_1.0\obj\Debug\net6.0\ref\Zadanie_1.0.dll

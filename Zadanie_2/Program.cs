@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Введите три числа");
+﻿Console.Clear();
+Console.WriteLine("Введите три числа");
 double a = double.Parse(Console.ReadLine());
 double b = double.Parse(Console.ReadLine());
 double c = double.Parse(Console.ReadLine());
